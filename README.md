@@ -1,5 +1,5 @@
-This project was created using create-react-app. To run, use:
+This project was created using create-react-app. To run:
 
-`npm start`
+`npm install` then `npm start`
 
 The form component is in the file SignUp.js.
